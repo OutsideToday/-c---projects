@@ -1,0 +1,4 @@
+john
+Mary
+Paul
+1000
